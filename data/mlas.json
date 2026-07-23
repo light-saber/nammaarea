@@ -1,0 +1,22 @@
+[
+  { "ac_name": "Chickpet", "ac_code": "150", "mla_name": "Uday B. Garudachar", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.6 },
+  { "ac_name": "Gandhi Nagar", "ac_code": "152", "mla_name": "Dinesh Gundu Rao", "mla_party": "INC", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 3.1 },
+  { "ac_name": "Rajajinagar", "ac_code": "155", "mla_name": "S.Suresh Kumar", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 4.0 },
+  { "ac_name": "Shivajinagar", "ac_code": "156", "mla_name": "Rizwan Arshad", "mla_party": "INC", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.2 },
+  { "ac_name": "Sarvagnanagar", "ac_code": "157", "mla_name": "K.J. George", "mla_party": "INC", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 3.8 },
+  { "ac_name": "K.R. Pura", "ac_code": "175", "mla_name": "B.A. Basavaraja", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.9 },
+  { "ac_name": "Mahadevapura", "ac_code": "177", "mla_name": "Sowmya Reddy", "mla_party": "INC", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.1 },
+  { "ac_name": "C.V. Raman Nagar", "ac_code": "178", "mla_name": "S. Raghu", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 1.7 },
+  { "ac_name": "Hebbal", "ac_code": "164", "mla_name": "Y.A. Narayanaswamy", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.4 },
+  { "ac_name": "Malleshwaram", "ac_code": "165", "mla_name": "Dr. C.N. Ashwath Narayan", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 3.5 },
+  { "ac_name": "Yeshwantpur", "ac_code": "166", "mla_name": "T.V. Mohandas Pai", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 1.9 },
+  { "ac_name": "Byatarayanapura", "ac_code": "167", "mla_name": "Krishna Byre Gowda", "mla_party": "INC", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.7 },
+  { "ac_name": "Yelahanka", "ac_code": "168", "mla_name": "S.R. Vishwanath", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 3.2 },
+  { "ac_name": "Rajarajeshwarinagar", "ac_code": "169", "mla_name": "Munirathna", "mla_party": "INC", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.5 },
+  { "ac_name": "Bangalore South", "ac_code": "170", "mla_name": "M. Krishnappa", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 4.2 },
+  { "ac_name": "Vijay Nagar", "ac_code": "171", "mla_name": "Zameer Ahmed Khan", "mla_party": "INC", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 1.8 },
+  { "ac_name": "Govindarajanagar", "ac_code": "172", "mla_name": "V. Somanna", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 3.6 },
+  { "ac_name": "Basavanagudi", "ac_code": "173", "mla_name": "L.A. Ravi Subramanya", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 2.8 },
+  { "ac_name": "Padmanabhanagar", "ac_code": "174", "mla_name": "R. Ashoka", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 3.3 },
+  { "ac_name": "Bommanahalli", "ac_code": "176", "mla_name": "M. Satish Reddy", "mla_party": "BJP", "mla_photo_url": "", "mla_contact": "", "ac_lad_allocated_cr": 5.0, "ac_lad_spent_cr": 1.6 }
+]
