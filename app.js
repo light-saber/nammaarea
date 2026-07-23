@@ -335,10 +335,18 @@
     // Corporator
     state.corporator = (state.corporators_data || []).find(function (r) { return r.ward_no === state.ward_no; }) || null;
 
-    // Works in same ward
-    state.works = state.ward_no
-      ? (state.works_data || []).filter(function (w) { return w.ward_no === state.ward_no; })
-      : [];
+    // Works: prefer pincode match (accurate), fall back to ward_no
+    if (state.pincode) {
+      state.works = (state.works_data || []).filter(function (w) {
+        return w.pincode === state.pincode;
+      });
+    } else if (state.ward_no) {
+      state.works = (state.works_data || []).filter(function (w) {
+        return w.ward_no === state.ward_no;
+      });
+    } else {
+      state.works = [];
+    }
   }
 
   // ---------- Render ----------
@@ -460,19 +468,14 @@
 
     var stats = el("p", { class: "stats" });
     if (c.kind === "mp") {
+      // Attendance + MPLADS data isn't bundled — PRS gates it behind JS. Show honest empty state.
       stats.innerHTML =
-        "<span><strong>" + esc(r.ls_attendance_pct != null ? r.ls_attendance_pct + "%" : "—") +
-        "</strong> attendance</span>" +
-        "<span><strong>" + esc(fmtMoney(r.mplads_allocated_cr)) +
-        "</strong> MPLADS allocated</span>" +
-        "<span><strong>" + esc(fmtMoney(r.mplads_spent_cr)) +
-        "</strong> spent</span>";
+        "<span class=\"stat-empty\">attendance · <a href=\"https://prsindia.org/mptrack/lok-sabha\" target=\"_blank\" rel=\"noopener\">see PRS</a></span>" +
+        "<span class=\"stat-empty\">MPLADS · <a href=\"https://prsindia.org/mptrack/lok-sabha\" target=\"_blank\" rel=\"noopener\">see PRS</a></span>";
     } else if (c.kind === "mla") {
+      // LAD data not bundled
       stats.innerHTML =
-        "<span><strong>" + esc(fmtMoney(r.ac_lad_allocated_cr)) +
-        "</strong> LAD allocated</span>" +
-        "<span><strong>" + esc(fmtMoney(r.ac_lad_spent_cr)) +
-        "</strong> spent</span>";
+        "<span class=\"stat-empty\">LAD funds · <a href=\"https://prsindia.org/mlatrack/karnataka\" target=\"_blank\" rel=\"noopener\">see PRS</a></span>";
     } else {
       // Corporator
       if (name === "Council suspended") {
@@ -499,9 +502,11 @@
     var root = $("#works-cards");
     root.innerHTML = "";
     if (!state.works || !state.works.length) {
-      var msg = state.ward_no
-        ? "No bundled public works recorded for Ward " + state.ward_no + " yet."
-        : "No ward identified, so no public works to show.";
+      var msg = state.pincode
+        ? "No bundled public works recorded for pincode " + state.pincode + " yet."
+        : (state.ward_no
+          ? "No bundled public works recorded for Ward " + state.ward_no + " yet."
+          : "No location identified, so no public works to show.");
       root.appendChild(el("p", { class: "status", text: msg }));
       return;
     }
