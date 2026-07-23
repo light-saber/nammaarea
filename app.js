@@ -272,10 +272,16 @@
     state.pc_code = entry.pc_code || null;
     state.ac = entry.ac;
     state.ac_code = entry.ac_code || null;
-    // No GPS coordinates — fall back to Bangalore city center so the map still renders.
-    state.lat = 12.9716;
-    state.lng = 77.5946;
-    setStatus("Pincode " + pc + " → " + entry.pc + " / " + entry.ac + ". (Using Bangalore-center coord approximation.)");
+    // Use bundled lat/lng if we have it; else fall back to Bangalore-center.
+    if (typeof entry.lat === "number" && typeof entry.lng === "number") {
+      state.lat = entry.lat;
+      state.lng = entry.lng;
+      setStatus("Pincode " + pc + " → " + entry.pc + " / " + entry.ac + ".");
+    } else {
+      state.lat = 12.9716;
+      state.lng = 77.5946;
+      setStatus("Pincode " + pc + " → " + entry.pc + " / " + entry.ac + ". (No bundled coords — using Bangalore-center approximation.)");
+    }
     resolveAllFromCache();
     render();
   }
