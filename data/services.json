@@ -1,0 +1,10 @@
+[
+  { "id": "ration", "label_en": "Ration Card (Karnataka Food)", "label_kn": null, "url_template": "https://ahara.kar.nic.in/", "description": "Apply, modify, or check status of ration card" },
+  { "id": "voter_id", "label_en": "Voter ID (NVSP)", "label_kn": null, "url_template": "https://voters.eci.gov.in/", "description": "Apply for new voter ID, check status, download e-EPIC" },
+  { "id": "driving_licence", "label_en": "Driving Licence (Sarathi)", "label_kn": null, "url_template": "https://sarathi.parivahan.gov.in/", "description": "Apply for or renew driving licence" },
+  { "id": "aadhaar_update", "label_en": "Aadhaar Update (UIDAI)", "label_kn": null, "url_template": "https://myaadhaar.uidai.gov.in/", "description": "Update address, mobile, or check Aadhaar status" },
+  { "id": "sakala", "label_en": "Sakala (Karnataka Grievance)", "label_kn": null, "url_template": "https://sakala.karnataka.gov.in/", "description": "File a grievance with any Karnataka government department" },
+  { "id": "rent_agreement", "label_en": "Rent Agreement (Karnataka e-Registration)", "label_kn": null, "url_template": "https://karnatakadigin.com/", "description": "Register rent agreement digitally" },
+  { "id": "income_cert", "label_en": "Income / Caste Certificate", "label_kn": null, "url_template": "https://sevasindhuservices.karnataka.gov.in/", "description": "Apply for income, caste, residence, or other certificates" },
+  { "id": "eb_kiosk", "label_en": "BESCOM New Connection", "label_kn": null, "url_template": "https://bescom.org/new-connection/", "description": "Apply for new electricity connection or service change" }
+]

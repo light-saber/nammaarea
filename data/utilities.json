@@ -1,0 +1,6 @@
+[
+  { "id": "bescom", "label_en": "BESCOM Bill", "label_kn": null, "url_template": "https://bescom.in/bill-pay", "auth_required": false, "input_hint": "Consumer number (10 digits)" },
+  { "id": "bwssb", "label_en": "BWSSB Bill", "label_kn": null, "url_template": "https://water.bwssb.in", "auth_required": false, "input_hint": "RR number" },
+  { "id": "bbmp_tax", "label_en": "BBMP Property Tax", "label_kn": null, "url_template": "https://bbmppropertytax.in/kvp/agents", "auth_required": false, "input_hint": "PID number" },
+  { "id": "indane_gas", "label_en": "Indane Gas Booking", "label_kn": null, "url_template": "https://indioas.com", "auth_required": false, "input_hint": "Consumer number (LPG ID)" }
+]
