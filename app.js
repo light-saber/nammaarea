@@ -475,7 +475,10 @@
         "</strong> spent</span>";
     } else {
       // Corporator
-      if (r.ward_office_address) {
+      if (name === "Council suspended") {
+        stats.innerHTML =
+          "<span class=\"council-note\">BBMP council dissolved in 2015. No elected corporator since.</span>";
+      } else if (r.ward_office_address) {
         stats.innerHTML =
           "<span><strong>Office:</strong> " + esc(r.ward_office_address) + "</span>";
       }

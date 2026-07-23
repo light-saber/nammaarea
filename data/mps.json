@@ -2,8 +2,8 @@
   {
     "pc_name": "Bangalore Rural",
     "pc_code": 23,
-    "mp_name": "To be verified",
-    "mp_party": "",
+    "mp_name": "C. N. Manjunath",
+    "mp_party": "Bharatiya Janata Party",
     "mp_photo_url": "",
     "mp_contact": "",
     "ls_attendance_pct": null,
@@ -13,8 +13,8 @@
   {
     "pc_name": "Bangalore North",
     "pc_code": 24,
-    "mp_name": "To be verified",
-    "mp_party": "",
+    "mp_name": "Shobha Karandlaje",
+    "mp_party": "Bharatiya Janata Party",
     "mp_photo_url": "",
     "mp_contact": "",
     "ls_attendance_pct": null,
@@ -24,8 +24,8 @@
   {
     "pc_name": "Bangalore Central",
     "pc_code": 25,
-    "mp_name": "To be verified",
-    "mp_party": "",
+    "mp_name": "P. C. Mohan",
+    "mp_party": "Bharatiya Janata Party",
     "mp_photo_url": "",
     "mp_contact": "",
     "ls_attendance_pct": null,
@@ -35,8 +35,8 @@
   {
     "pc_name": "Bangalore South",
     "pc_code": 26,
-    "mp_name": "To be verified",
-    "mp_party": "",
+    "mp_name": "L. S. Tejasvi Surya",
+    "mp_party": "Bharatiya Janata Party",
     "mp_photo_url": "",
     "mp_contact": "",
     "ls_attendance_pct": null,
@@ -44,10 +44,10 @@
     "mplads_spent_cr": null
   },
   {
-    "pc_name": "Chikkballapur",
+    "pc_name": "Chikkaballapur",
     "pc_code": 27,
-    "mp_name": "To be verified",
-    "mp_party": "",
+    "mp_name": "K. Sudhakar",
+    "mp_party": "Bharatiya Janata Party",
     "mp_photo_url": "",
     "mp_contact": "",
     "ls_attendance_pct": null,
