@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="color-scheme" content="light dark" />
+  <title>NammaArea — Personal Bangalore civic dashboard</title>
+  <meta name="description" content="NammaArea ('Our Area' in Kannada). Personal Bangalore civic dashboard. Not production ready." />
+  <meta name="robots" content="noindex,nofollow" />
+  <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='12' fill='%230f766e'/%3E%3Ctext x='32' y='42' font-size='34' text-anchor='middle' fill='white' font-family='system-ui'%3E%E2%9C%89%EF%B8%8F%3C/text%3E%3C/svg%3E" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+    integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+    crossorigin="" />
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to main content</a>
+
+  <header class="topbar" role="banner">
+    <div class="brand">
+      <span class="logo" aria-hidden="true">✋</span>
+      <div>
+        <h1>NammaArea</h1>
+        <p class="tagline">Personal Bangalore civic dashboard · v1.0</p>
+      </div>
+    </div>
+  </header>
+
+  <main id="main" tabindex="-1">
+
+    <section id="disclaimer" class="banner warning" role="note" aria-label="Disclaimer">
+      <span class="banner-icon" aria-hidden="true">⚠️</span>
+      <span class="banner-text">
+        Personal project, data bundled at build time and <strong>not refreshed automatically</strong>.
+        <a href="https://github.com/light-saber/nammaarea#readme" target="_blank" rel="noopener noreferrer">Read disclaimer</a>.
+      </span>
+    </section>
+
+    <section id="location" aria-label="Location input">
+      <button id="find-me" class="primary" type="button" aria-describedby="location-status">
+        <span aria-hidden="true">📍</span> Find my area
+      </button>
+      <div class="search-row">
+        <label class="visually-hidden" for="place-search">Search a place</label>
+        <input id="place-search" type="text" inputmode="search"
+               placeholder="Search a place (e.g. Whitefield, Bangalore)"
+               autocomplete="off" />
+        <label class="visually-hidden" for="pincode-search">Pincode</label>
+        <input id="pincode-search" type="text" inputmode="numeric"
+               pattern="\d{6}" maxlength="6"
+               placeholder="Pincode (6 digits)" autocomplete="postal-code" />
+      </div>
+      <p id="location-status" class="status" role="status" aria-live="polite">No location set.</p>
+    </section>
+
+    <div id="data-stamp" class="data-stamp" aria-live="polite"></div>
+
+    <section id="map-section" aria-label="Map" hidden>
+      <div id="map" role="application" aria-label="OpenStreetMap of your location"></div>
+    </section>
+
+    <section id="reps-section" aria-label="Your representatives" hidden>
+      <h2>🏛️ Your representatives</h2>
+      <div id="reps-cards" class="cards-list"></div>
+    </section>
+
+    <section id="works-section" aria-label="Public works near you" hidden>
+      <h2>🚧 Public works near you</h2>
+      <p class="sample-note">
+        Showing a manually curated sample from May 2026. Live weekly crawl comes in v1.1.
+      </p>
+      <div id="works-cards" class="cards-list"></div>
+    </section>
+
+    <section id="utilities-section" aria-label="Utility bill links" hidden>
+      <h2>💡 Utilities</h2>
+      <div id="utilities-tiles"></div>
+    </section>
+
+    <section id="services-section" aria-label="Karnataka state services" hidden>
+      <h2>📋 Karnataka services</h2>
+      <div id="services-tiles"></div>
+    </section>
+
+    <section id="share-section" class="share-actions" aria-label="Share / open in maps" hidden>
+      <button id="share-btn" class="secondary" type="button">📤 Share this view</button>
+      <button id="maps-btn" class="secondary" type="button">⛶ Open in Google Maps</button>
+    </section>
+
+  </main>
+
+  <footer role="contentinfo">
+    <p>
+      Personal project ·
+      <a href="https://github.com/light-saber/nammaarea" target="_blank" rel="noopener noreferrer">GitHub</a> ·
+      <span id="data-source">data bundled at build time</span>
+    </p>
+    <p class="disclaimer-line">
+      ⚠️ Not for public use. Always verify with official sources.
+    </p>
+  </footer>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+    integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+    crossorigin=""></script>
+  <script src="https://unpkg.com/@turf/turf@7.0.0/turf.min.js"></script>
+  <script src="app.js" defer></script>
+</body>
+</html>
