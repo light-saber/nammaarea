@@ -1,416 +1,1034 @@
 {
   "560001": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Chickpet",
-    "ac_code": "150",
+    "ac": "Shivajinagar",
+    "ac_code": 162,
     "lat": 12.979704,
-    "lng": 77.594695
+    "lng": 77.594695,
+    "pc": "Bangalore Central",
+    "pc_code": 25
   },
   "560002": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
     "ac": "Chickpet",
-    "ac_code": "150",
+    "ac_code": 169,
     "lat": 12.962729,
-    "lng": 77.580649
-  },
-  "560009": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Rajajinagar",
-    "ac_code": "155",
-    "lat": 12.978612,
-    "lng": 77.576276
-  },
-  "560010": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Rajajinagar",
-    "ac_code": "155",
-    "lat": 12.990603,
-    "lng": 77.551414
-  },
-  "560011": {
+    "lng": 77.580649,
     "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Vijay Nagar",
-    "ac_code": "171",
-    "lat": 12.930218,
-    "lng": 77.585123
-  },
-  "560020": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Gandhi Nagar",
-    "ac_code": "152",
-    "lat": 12.99155,
-    "lng": 77.577066
-  },
-  "560021": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Gandhi Nagar",
-    "ac_code": "152",
-    "lat": 12.99189,
-    "lng": 77.563164
-  },
-  "560027": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Shivajinagar",
-    "ac_code": "156",
-    "lat": 12.959385,
-    "lng": 77.593005
-  },
-  "560038": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Shivajinagar",
-    "ac_code": "156",
-    "lat": 12.979734,
-    "lng": 77.641672
-  },
-  "560040": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Sarvagnanagar",
-    "ac_code": "157",
-    "lat": 12.966634,
-    "lng": 77.533306
-  },
-  "560042": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Sarvagnanagar",
-    "ac_code": "157",
-    "lat": 12.981832,
-    "lng": 77.617003
-  },
-  "560043": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "Sarvagnanagar",
-    "ac_code": "157",
-    "lat": 13.023891,
-    "lng": 77.644208
-  },
-  "560045": {
-    "pc": "Bangalore Central",
-    "pc_code": "28",
-    "ac": "K.R. Pura",
-    "ac_code": "175",
-    "lat": 13.036743,
-    "lng": 77.621407
-  },
-  "560066": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Mahadevapura",
-    "ac_code": "177",
-    "lat": 12.969197,
-    "lng": 77.743948
-  },
-  "560067": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Mahadevapura",
-    "ac_code": "177",
-    "lat": 12.955685,
-    "lng": 77.812906
-  },
-  "560048": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Mahadevapura",
-    "ac_code": "177",
-    "lat": 12.99013,
-    "lng": 77.71192
-  },
-  "560037": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Mahadevapura",
-    "ac_code": "177",
-    "lat": 12.959712,
-    "lng": 77.699132
-  },
-  "560061": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Chikkalsandra",
-    "ac_code": "TODO_CHIKKALSANDRA",
-    "lat": 12.903624,
-    "lng": 77.539986
-  },
-  "560016": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "C.V. Raman Nagar",
-    "ac_code": "178",
-    "lat": 13.018577,
-    "lng": 77.676527
-  },
-  "560075": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "C.V. Raman Nagar",
-    "ac_code": "178",
-    "lat": 12.970195,
-    "lng": 77.656257
-  },
-  "560093": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "C.V. Raman Nagar",
-    "ac_code": "178",
-    "lat": 12.983527,
-    "lng": 77.668408
-  },
-  "560034": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Hebbal",
-    "ac_code": "164",
-    "lat": 12.925432,
-    "lng": 77.631378
-  },
-  "560024": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Hebbal",
-    "ac_code": "164",
-    "lat": 13.045317,
-    "lng": 77.59777
-  },
-  "560032": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Hebbal",
-    "ac_code": "164",
-    "lat": 13.027717,
-    "lng": 77.600323
-  },
-  "560094": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Hebbal",
-    "ac_code": "164",
-    "lat": 13.040769,
-    "lng": 77.573576
-  },
-  "560006": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Malleshwaram",
-    "ac_code": "165",
-    "lat": 13.010644,
-    "lng": 77.591214
+    "pc_code": 26
   },
   "560003": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Malleshwaram",
-    "ac_code": "165",
+    "ac": "Gandhi Nagar",
+    "ac_code": 164,
     "lat": 13.001101,
-    "lng": 77.572512
-  },
-  "560054": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Malleshwaram",
-    "ac_code": "165",
-    "lat": 13.034289,
-    "lng": 77.557271
-  },
-  "560080": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Yeshwantpur",
-    "ac_code": "166",
-    "lat": 13.01034,
-    "lng": 77.578956
-  },
-  "560022": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Yeshwantpur",
-    "ac_code": "166",
-    "lat": 13.025499,
-    "lng": 77.545844
-  },
-  "560057": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Byatarayanapura",
-    "ac_code": "167",
-    "lat": 13.046048,
-    "lng": 77.513112
-  },
-  "560092": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Byatarayanapura",
-    "ac_code": "167",
-    "lat": 13.061733,
-    "lng": 77.592881
-  },
-  "560085": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Byatarayanapura",
-    "ac_code": "167",
-    "lat": 12.929915,
-    "lng": 77.544064
-  },
-  "560097": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Yelahanka",
-    "ac_code": "168",
-    "lat": 13.078555,
-    "lng": 77.555229
-  },
-  "560064": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Yelahanka",
-    "ac_code": "168",
-    "lat": 13.140169,
-    "lng": 77.572251
-  },
-  "560063": {
-    "pc": "Bangalore North",
-    "pc_code": "27",
-    "ac": "Yelahanka",
-    "ac_code": "168",
-    "lat": 13.131237,
-    "lng": 77.611214
-  },
-  "560076": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Bommanahalli",
-    "ac_code": "176",
-    "lat": 12.880645,
-    "lng": 77.603868
-  },
-  "560068": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Bommanahalli",
-    "ac_code": "176",
-    "lat": 12.894225,
-    "lng": 77.64235
-  },
-  "560100": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Bommanahalli",
-    "ac_code": "176",
-    "lat": 12.846006,
-    "lng": 77.661267
-  },
-  "560035": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Bangalore South",
-    "ac_code": "170",
-    "lat": 12.896021,
-    "lng": 77.699819
-  },
-  "560050": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Bangalore South",
-    "ac_code": "170",
-    "lat": 12.941399,
-    "lng": 77.554803
-  },
-  "560079": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Vijay Nagar",
-    "ac_code": "171",
-    "lat": 12.988213,
-    "lng": 77.532641
-  },
-  "560026": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Govindarajanagar",
-    "ac_code": "172",
-    "lat": 12.95467,
-    "lng": 77.546191
-  },
-  "560044": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Govindarajanagar",
-    "ac_code": "172"
-  },
-  "560086": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Govindarajanagar",
-    "ac_code": "172",
-    "lat": 13.004393,
-    "lng": 77.539948
-  },
-  "560078": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Basavanagudi",
-    "ac_code": "173",
-    "lat": 12.899595,
-    "lng": 77.582033
+    "lng": 77.572512,
+    "pc": "Bangalore Central",
+    "pc_code": 25
   },
   "560004": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Basavanagudi",
-    "ac_code": "173",
+    "ac": "Chickpet",
+    "ac_code": 169,
     "lat": 12.94522,
-    "lng": 77.575859
-  },
-  "560019": {
+    "lng": 77.575859,
     "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Padmanabhanagar",
-    "ac_code": "174",
-    "lat": 12.947126,
-    "lng": 77.562403
+    "pc_code": 26
+  },
+  "560005": {
+    "ac": "Pulakeshinagar",
+    "ac_code": 159,
+    "lat": 12.996796,
+    "lng": 77.619046,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560006": {
+    "ac": "Malleshwaram",
+    "ac_code": 157,
+    "lat": 13.010644,
+    "lng": 77.591214,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560007": {
+    "ac": "",
+    "ac_code": 0,
+    "lat": 12.957466,
+    "lng": 77.629138,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560008": {
+    "ac": "Shanti Nagar",
+    "ac_code": 163,
+    "lat": 12.977258,
+    "lng": 77.634989,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560009": {
+    "ac": "Gandhi Nagar",
+    "ac_code": 164,
+    "lat": 12.978612,
+    "lng": 77.576276,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560010": {
+    "ac": "Rajaji Nagar",
+    "ac_code": 165,
+    "lat": 12.990603,
+    "lng": 77.551414,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560011": {
+    "ac": "Chickpet",
+    "ac_code": 169,
+    "lat": 12.930218,
+    "lng": 77.585123,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560012": {
+    "ac": "Malleshwaram",
+    "ac_code": 157,
+    "lat": 13.019318,
+    "lng": 77.5675,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560013": {
+    "ac": "Rajarajeshwarinagar",
+    "ac_code": 154,
+    "lat": 13.04942,
+    "lng": 77.552189,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560015": {
+    "ac": "Dasarahalli",
+    "ac_code": 155,
+    "lat": 13.06293,
+    "lng": 77.526146,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560016": {
+    "ac": "K.R.Pura",
+    "ac_code": 151,
+    "lat": 13.018577,
+    "lng": 77.676527,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560017": {
+    "ac": "C.V. Raman Nagar",
+    "ac_code": 161,
+    "lat": 12.954166,
+    "lng": 77.663892,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560018": {
+    "ac": "Chamrajpet",
+    "ac_code": 168,
+    "lat": 12.95828,
+    "lng": 77.563947,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560020": {
+    "ac": "Gandhi Nagar",
+    "ac_code": 164,
+    "lat": 12.99155,
+    "lng": 77.577066,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560021": {
+    "ac": "Rajaji Nagar",
+    "ac_code": 165,
+    "lat": 12.99189,
+    "lng": 77.563164,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560022": {
+    "ac": "Rajarajeshwarinagar",
+    "ac_code": 154,
+    "lat": 13.025499,
+    "lng": 77.545844,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560023": {
+    "ac": "Gandhi Nagar",
+    "ac_code": 164,
+    "lat": 12.974313,
+    "lng": 77.558339,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560024": {
+    "ac": "Byatarayanapura",
+    "ac_code": 152,
+    "lat": 13.045317,
+    "lng": 77.59777,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560025": {
+    "ac": "Shanti Nagar",
+    "ac_code": 163,
+    "lat": 12.964241,
+    "lng": 77.606957,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560026": {
+    "ac": "Vijay Nagar",
+    "ac_code": 167,
+    "lat": 12.95467,
+    "lng": 77.546191,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560027": {
+    "ac": "Chickpet",
+    "ac_code": 169,
+    "lat": 12.959385,
+    "lng": 77.593005,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560029": {
+    "ac": "B.T.M Layout",
+    "ac_code": 172,
+    "lat": 12.929729,
+    "lng": 77.604737,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560030": {
+    "ac": "B.T.M Layout",
+    "ac_code": 172,
+    "lat": 12.945288,
+    "lng": 77.607383,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560032": {
+    "ac": "Hebbal",
+    "ac_code": 158,
+    "lat": 13.027717,
+    "lng": 77.600323,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560033": {
+    "ac": "C.V. Raman Nagar",
+    "ac_code": 161,
+    "lat": 12.998014,
+    "lng": 77.646158,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560034": {
+    "ac": "B.T.M Layout",
+    "ac_code": 172,
+    "lat": 12.925432,
+    "lng": 77.631378,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560035": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 12.896021,
+    "lng": 77.699819,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560036": {
+    "ac": "K.R.Pura",
+    "ac_code": 151,
+    "lat": 13.012165,
+    "lng": 77.696697,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560037": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 12.959712,
+    "lng": 77.699132,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560038": {
+    "ac": "C.V. Raman Nagar",
+    "ac_code": 161,
+    "lat": 12.979734,
+    "lng": 77.641672,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560040": {
+    "ac": "Govindraj Nagar",
+    "ac_code": 166,
+    "lat": 12.966634,
+    "lng": 77.533306,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560041": {
+    "ac": "Jayanagar",
+    "ac_code": 173,
+    "lat": 12.923386,
+    "lng": 77.592375,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560042": {
+    "ac": "Shivajinagar",
+    "ac_code": 162,
+    "lat": 12.981832,
+    "lng": 77.617003,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560043": {
+    "ac": "K.R.Pura",
+    "ac_code": 151,
+    "lat": 13.023891,
+    "lng": 77.644208,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560045": {
+    "ac": "Sarvagnanagar",
+    "ac_code": 160,
+    "lat": 13.036743,
+    "lng": 77.621407,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560047": {
+    "ac": "Shanti Nagar",
+    "ac_code": 163,
+    "lat": 12.956716,
+    "lng": 77.616623,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560048": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 12.99013,
+    "lng": 77.71192,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560049": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 13.060037,
+    "lng": 77.731044,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560050": {
+    "ac": "Basavanagudi",
+    "ac_code": 170,
+    "lat": 12.941399,
+    "lng": 77.554803,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560051": {
+    "ac": "Shivajinagar",
+    "ac_code": 162,
+    "lat": 12.987744,
+    "lng": 77.603189,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560053": {
+    "ac": "Gandhi Nagar",
+    "ac_code": 164,
+    "lat": 12.968623,
+    "lng": 77.571016,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560054": {
+    "ac": "Rajarajeshwarinagar",
+    "ac_code": 154,
+    "lat": 13.034289,
+    "lng": 77.557271,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560055": {
+    "ac": "Malleshwaram",
+    "ac_code": 157,
+    "lat": 13.007748,
+    "lng": 77.559864,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560056": {
+    "ac": "Rajarajeshwarinagar",
+    "ac_code": 154,
+    "lat": 12.947693,
+    "lng": 77.496982,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560057": {
+    "ac": "Dasarahalli",
+    "ac_code": 155,
+    "lat": 13.046048,
+    "lng": 77.513112,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560058": {
+    "ac": "Dasarahalli",
+    "ac_code": 155,
+    "lat": 13.023294,
+    "lng": 77.513563,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560059": {
+    "ac": "Rajarajeshwarinagar",
+    "ac_code": 154,
+    "lat": 12.923778,
+    "lng": 77.495786,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560060": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.907055,
+    "lng": 77.459675,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560061": {
+    "ac": "Bangalore South",
+    "ac_code": 176,
+    "lat": 12.903624,
+    "lng": 77.539986,
+    "pc": "Bangalore South",
+    "pc_code": 26
   },
   "560062": {
-    "pc": "Bangalore South",
-    "pc_code": "29",
-    "ac": "Padmanabhanagar",
-    "ac_code": "174",
+    "ac": "Bangalore South",
+    "ac_code": 176,
     "lat": 12.867143,
-    "lng": 77.520897
+    "lng": 77.520897,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560063": {
+    "ac": "Byatarayanapura",
+    "ac_code": 152,
+    "lat": 13.131237,
+    "lng": 77.611214,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560064": {
+    "ac": "Yelahanka",
+    "ac_code": 150,
+    "lat": 13.140169,
+    "lng": 77.572251,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "560065": {
+    "ac": "Byatarayanapura",
+    "ac_code": 152,
+    "lat": 13.08531,
+    "lng": 77.5778,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560066": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 12.969197,
+    "lng": 77.743948,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560067": {
+    "ac": "Hosakote",
+    "ac_code": 178,
+    "lat": 12.955685,
+    "lng": 77.812906,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "560068": {
+    "ac": "Bommanahalli",
+    "ac_code": 175,
+    "lat": 12.894225,
+    "lng": 77.64235,
+    "pc": "Bangalore South",
+    "pc_code": 26
   },
   "560070": {
-    "pc": "Bangalore Rural",
-    "pc_code": "30",
-    "ac": "Rajarajeshwarinagar",
-    "ac_code": "169",
+    "ac": "Padmanaba Nagar",
+    "ac_code": 171,
     "lat": 12.922456,
-    "lng": 77.566811
+    "lng": 77.566811,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560071": {
+    "ac": "Shanti Nagar",
+    "ac_code": 163,
+    "lat": 12.956176,
+    "lng": 77.639804,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560072": {
+    "ac": "Rajarajeshwarinagar",
+    "ac_code": 154,
+    "lat": 12.965746,
+    "lng": 77.514076,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560073": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 13.043168,
+    "lng": 77.486737,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560074": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.882342,
+    "lng": 77.426721,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560075": {
+    "ac": "C.V. Raman Nagar",
+    "ac_code": 161,
+    "lat": 12.970195,
+    "lng": 77.656257,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560076": {
+    "ac": "Bommanahalli",
+    "ac_code": 175,
+    "lat": 12.880645,
+    "lng": 77.603868,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560077": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 13.062532,
+    "lng": 77.653022,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560078": {
+    "ac": "Bommanahalli",
+    "ac_code": 175,
+    "lat": 12.899595,
+    "lng": 77.582033,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560079": {
+    "ac": "Rajaji Nagar",
+    "ac_code": 165,
+    "lat": 12.988213,
+    "lng": 77.532641,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560080": {
+    "ac": "Malleshwaram",
+    "ac_code": 157,
+    "lat": 13.01034,
+    "lng": 77.578956,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560081": {
+    "ac": "Anekal",
+    "ac_code": 177,
+    "lat": 12.798127,
+    "lng": 77.711993,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560082": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.826151,
+    "lng": 77.467331,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560084": {
+    "ac": "Sarvagnanagar",
+    "ac_code": 160,
+    "lat": 13.011608,
+    "lng": 77.627623,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560085": {
+    "ac": "Basavanagudi",
+    "ac_code": 170,
+    "lat": 12.929915,
+    "lng": 77.544064,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560086": {
+    "ac": "Mahalakshmi Layout",
+    "ac_code": 156,
+    "lat": 13.004393,
+    "lng": 77.539948,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560087": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 12.928574,
+    "lng": 77.737229,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560088": {
+    "ac": "Yelahanka",
+    "ac_code": 150,
+    "lat": 13.12129,
+    "lng": 77.495328,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "560089": {
+    "ac": "Yelahanka",
+    "ac_code": 150,
+    "lat": 13.177425,
+    "lng": 77.501464,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "560090": {
+    "ac": "Dasarahalli",
+    "ac_code": 155,
+    "lat": 13.089858,
+    "lng": 77.518733,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560091": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.994393,
+    "lng": 77.481919,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560092": {
+    "ac": "Byatarayanapura",
+    "ac_code": 152,
+    "lat": 13.061733,
+    "lng": 77.592881,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560093": {
+    "ac": "C.V. Raman Nagar",
+    "ac_code": 161,
+    "lat": 12.983527,
+    "lng": 77.668408,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560094": {
+    "ac": "Hebbal",
+    "ac_code": 158,
+    "lat": 13.040769,
+    "lng": 77.573576,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560095": {
+    "ac": "B.T.M Layout",
+    "ac_code": 172,
+    "lat": 12.938844,
+    "lng": 77.629884,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560096": {
+    "ac": "Mahalakshmi Layout",
+    "ac_code": 156,
+    "lat": 13.014535,
+    "lng": 77.533899,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560097": {
+    "ac": "Byatarayanapura",
+    "ac_code": 152,
+    "lat": 13.078555,
+    "lng": 77.555229,
+    "pc": "Bangalore North",
+    "pc_code": 24
   },
   "560098": {
-    "pc": "Bangalore Rural",
-    "pc_code": "30",
     "ac": "Rajarajeshwarinagar",
-    "ac_code": "169",
+    "ac_code": 154,
     "lat": 12.915689,
-    "lng": 77.515985
+    "lng": 77.515985,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560099": {
+    "ac": "Anekal",
+    "ac_code": 177,
+    "lat": 12.839336,
+    "lng": 77.705542,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560100": {
+    "ac": "Bangalore South",
+    "ac_code": 176,
+    "lat": 12.846006,
+    "lng": 77.661267,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560102": {
+    "ac": "Bommanahalli",
+    "ac_code": 175,
+    "lat": 12.915145,
+    "lng": 77.650513,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560103": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 12.923277,
+    "lng": 77.678868,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560104": {
+    "ac": "Vijay Nagar",
+    "ac_code": 167,
+    "lat": 12.962325,
+    "lng": 77.538041,
+    "pc": "Bangalore South",
+    "pc_code": 26
+  },
+  "560105": {
+    "ac": "Bangalore South",
+    "ac_code": 176,
+    "lat": 12.78642,
+    "lng": 77.634579,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560107": {
+    "ac": "Yelahanka",
+    "ac_code": 150,
+    "lat": 13.08511,
+    "lng": 77.489371,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "560108": {
+    "ac": "Bangalore South",
+    "ac_code": 176,
+    "lat": 12.857076,
+    "lng": 77.556789,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560109": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.866406,
+    "lng": 77.523522,
+    "pc": "Bangalore North",
+    "pc_code": 24
   },
   "560110": {
-    "pc": "Bangalore Rural",
-    "pc_code": "30",
-    "ac": "Rajarajeshwarinagar",
-    "ac_code": "169",
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
     "lat": 12.951678,
-    "lng": 77.476384
+    "lng": 77.476384,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560111": {
+    "ac": "Bangalore South",
+    "ac_code": 176,
+    "lat": 12.901214,
+    "lng": 77.562669,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560112": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.973538,
+    "lng": 77.456106,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560113": {
+    "ac": "K.R.Pura",
+    "ac_code": 151,
+    "lat": 13.027647,
+    "lng": 77.656339,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560114": {
+    "ac": "Bangalore South",
+    "ac_code": 176,
+    "lat": 12.876444,
+    "lng": 77.636043,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "560115": {
+    "ac": "Mahadevapura",
+    "ac_code": 174,
+    "lat": 13.033638,
+    "lng": 77.770252,
+    "pc": "Bangalore Central",
+    "pc_code": 25
+  },
+  "560116": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.770017,
+    "lng": 77.5088,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "560117": {
+    "ac": "Hosakote",
+    "ac_code": 178,
+    "lat": 12.994601,
+    "lng": 77.822969,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "560119": {
+    "ac": "Yelahanka",
+    "ac_code": 150,
+    "lat": null,
+    "lng": null,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "560300": {
+    "ac": "Devanahalli",
+    "ac_code": 179,
+    "lat": 13.199078,
+    "lng": 77.702904,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "561203": {
+    "ac": "Devanahalli",
+    "ac_code": 179,
+    "lat": 13.339574,
+    "lng": 77.498552,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "561204": {
+    "ac": "Doddaballapur",
+    "ac_code": 180,
+    "lat": 13.334048,
+    "lng": 77.405686,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "561205": {
+    "ac": "Devanahalli",
+    "ac_code": 179,
+    "lat": 13.376716,
+    "lng": 77.586933,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562106": {
+    "ac": "Anekal",
+    "ac_code": 177,
+    "lat": 12.712936,
+    "lng": 77.662752,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "562107": {
+    "ac": "Anekal",
+    "ac_code": 177,
+    "lat": 12.778721,
+    "lng": 77.747766,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "562110": {
+    "ac": "Devanahalli",
+    "ac_code": 179,
+    "lat": 13.248262,
+    "lng": 77.661899,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562111": {
+    "ac": "Nelamangala",
+    "ac_code": 181,
+    "lat": 13.23559,
+    "lng": 77.260501,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562114": {
+    "ac": "Hosakote",
+    "ac_code": 178,
+    "lat": 13.082519,
+    "lng": 77.845011,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562122": {
+    "ac": "Hosakote",
+    "ac_code": 178,
+    "lat": 13.187108,
+    "lng": 77.90255,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562123": {
+    "ac": "Nelamangala",
+    "ac_code": 181,
+    "lat": 13.117406,
+    "lng": 77.38033,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562125": {
+    "ac": "Anekal",
+    "ac_code": 177,
+    "lat": 12.873556,
+    "lng": 77.782521,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
+  },
+  "562129": {
+    "ac": "Hosakote",
+    "ac_code": 178,
+    "lat": 13.187775,
+    "lng": 77.792443,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562130": {
+    "ac": "Yeshvanthapura",
+    "ac_code": 153,
+    "lat": 12.956313,
+    "lng": 77.380539,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "562132": {
+    "ac": "Nelamangala",
+    "ac_code": 181,
+    "lat": 13.217514,
+    "lng": 77.324007,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562135": {
+    "ac": "Devanahalli",
+    "ac_code": 179,
+    "lat": 13.291929,
+    "lng": 77.787835,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562149": {
+    "ac": "Byatarayanapura",
+    "ac_code": 152,
+    "lat": 13.131514,
+    "lng": 77.682572,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "562157": {
+    "ac": "Byatarayanapura",
+    "ac_code": 152,
+    "lat": 13.174315,
+    "lng": 77.611736,
+    "pc": "Bangalore North",
+    "pc_code": 24
+  },
+  "562162": {
+    "ac": "Yelahanka",
+    "ac_code": 150,
+    "lat": 13.058223,
+    "lng": 77.438753,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562163": {
+    "ac": "Doddaballapur",
+    "ac_code": 180,
+    "lat": 13.27389,
+    "lng": 77.563438,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562164": {
+    "ac": "Devanahalli",
+    "ac_code": 179,
+    "lat": 13.315044,
+    "lng": 77.701021,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562165": {
+    "ac": "Devanahalli",
+    "ac_code": 179,
+    "lat": null,
+    "lng": null,
+    "pc": "Chikkballapur",
+    "pc_code": 27
+  },
+  "562166": {
+    "ac": "Anekal",
+    "ac_code": 177,
+    "lat": null,
+    "lng": null,
+    "pc": "Bangalore Rural",
+    "pc_code": 23
   }
 }

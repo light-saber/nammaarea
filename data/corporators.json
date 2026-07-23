@@ -1,21 +1,1982 @@
 [
-  { "ward_no": "1", "ward_name": "Kempegowda Ward", "zone": "Yelahanka", "corporator_name": "Sample Corporator 1", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000001", "ward_office_address": "Ward 1 Office, Yelahanka, Bangalore 560064" },
-  { "ward_no": "21", "ward_name": "Hebbala", "zone": "Hebbal", "corporator_name": "Sample Corporator 21", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000021", "ward_office_address": "Ward 21 Office, Hebbal, Bangalore 560032" },
-  { "ward_no": "45", "ward_name": "Malleswaram", "zone": "Malleshwaram", "corporator_name": "Sample Corporator 45", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000045", "ward_office_address": "Ward 45 Office, Malleswaram, Bangalore 560003" },
-  { "ward_no": "57", "ward_name": "C V Raman Nagar", "zone": "C.V. Raman Nagar", "corporator_name": "Sample Corporator 57", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000057", "ward_office_address": "Ward 57 Office, C V Raman Nagar, Bangalore 560075" },
-  { "ward_no": "63", "ward_name": "Jayamahal", "zone": "Shivajinagar", "corporator_name": "Sample Corporator 63", "corporator_party": "INC", "corporator_photo_url": "", "corporator_mobile": "+91-9000000063", "ward_office_address": "Ward 63 Office, Jayamahal, Bangalore 560006" },
-  { "ward_no": "83", "ward_name": "Kadugodi", "zone": "Mahadevapura", "corporator_name": "Sample Corporator 83", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000083", "ward_office_address": "Ward 83 Office, Kadugodi, Bangalore 560066" },
-  { "ward_no": "84", "ward_name": "Hagadur", "zone": "Mahadevapura", "corporator_name": "Sample Corporator 84", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000084", "ward_office_address": "Ward 84 Office, Hagadur, Bangalore 560066" },
-  { "ward_no": "85", "ward_name": "Dodda Nekkundi", "zone": "Mahadevapura", "corporator_name": "Sample Corporator 85", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000085", "ward_office_address": "Ward 85 Office, Dodda Nekkundi, Bangalore 560037" },
-  { "ward_no": "86", "ward_name": "Marathahalli", "zone": "Mahadevapura", "corporator_name": "Sample Corporator 86", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000086", "ward_office_address": "Ward 86 Office, Marathahalli, Bangalore 560037" },
-  { "ward_no": "92", "ward_name": "Shivaji Nagar", "zone": "Shivajinagar", "corporator_name": "Sample Corporator 92", "corporator_party": "INC", "corporator_photo_url": "", "corporator_mobile": "+91-9000000092", "ward_office_address": "Ward 92 Office, Shivaji Nagar, Bangalore 560051" },
-  { "ward_no": "99", "ward_name": "Rajaji Nagar", "zone": "Rajajinagar", "corporator_name": "Sample Corporator 99", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000099", "ward_office_address": "Ward 99 Office, Rajaji Nagar, Bangalore 560010" },
-  { "ward_no": "109", "ward_name": "Chickpete", "zone": "Chickpet", "corporator_name": "Sample Corporator 109", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000109", "ward_office_address": "Ward 109 Office, Chickpete, Bangalore 560001" },
-  { "ward_no": "150", "ward_name": "Bellanduru", "zone": "Mahadevapura", "corporator_name": "Sample Corporator 150", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000150", "ward_office_address": "Ward 150 Office, Bellanduru, Bangalore 560103" },
-  { "ward_no": "160", "ward_name": "Rajarajeshwari Nagar", "zone": "Rajarajeshwarinagar", "corporator_name": "Sample Corporator 160", "corporator_party": "INC", "corporator_photo_url": "", "corporator_mobile": "+91-9000000160", "ward_office_address": "Ward 160 Office, RR Nagar, Bangalore 560098" },
-  { "ward_no": "172", "ward_name": "Madivala", "zone": "Bommanahalli", "corporator_name": "Sample Corporator 172", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000172", "ward_office_address": "Ward 172 Office, Madivala, Bangalore 560068" },
-  { "ward_no": "176", "ward_name": "BTM Layout", "zone": "Bommanahalli", "corporator_name": "Sample Corporator 176", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000176", "ward_office_address": "Ward 176 Office, BTM Layout, Bangalore 560076" },
-  { "ward_no": "177", "ward_name": "J P Nagar", "zone": "Bommanahalli", "corporator_name": "Sample Corporator 177", "corporator_party": "INC", "corporator_photo_url": "", "corporator_mobile": "+91-9000000177", "ward_office_address": "Ward 177 Office, JP Nagar, Bangalore 560078" },
-  { "ward_no": "181", "ward_name": "Kumaraswamy Layout", "zone": "Padmanabhanagar", "corporator_name": "Sample Corporator 181", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000181", "ward_office_address": "Ward 181 Office, Kumaraswamy Layout, Bangalore 560111" },
-  { "ward_no": "182", "ward_name": "Padmanabha Nagar", "zone": "Padmanabhanagar", "corporator_name": "Sample Corporator 182", "corporator_party": "BJP", "corporator_photo_url": "", "corporator_mobile": "+91-9000000182", "ward_office_address": "Ward 182 Office, Padmanabhanagar, Bangalore 560070" }
+  {
+    "ward_no": "1",
+    "ward_name": "Kempegowda Ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 1 Office, Kempegowda Ward"
+  },
+  {
+    "ward_no": "2",
+    "ward_name": "Chowdeswari Ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 2 Office, Chowdeswari Ward"
+  },
+  {
+    "ward_no": "3",
+    "ward_name": "Atturu",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 3 Office, Atturu"
+  },
+  {
+    "ward_no": "4",
+    "ward_name": "Yelahanka Satellite Town",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 4 Office, Yelahanka Satellite Town"
+  },
+  {
+    "ward_no": "5",
+    "ward_name": "Jakkuru",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 5 Office, Jakkuru"
+  },
+  {
+    "ward_no": "6",
+    "ward_name": "Thanisandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 6 Office, Thanisandra"
+  },
+  {
+    "ward_no": "7",
+    "ward_name": "Byatarayanapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 7 Office, Byatarayanapura"
+  },
+  {
+    "ward_no": "8",
+    "ward_name": "Kodigehalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 8 Office, Kodigehalli"
+  },
+  {
+    "ward_no": "9",
+    "ward_name": "Vidyaranyapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 9 Office, Vidyaranyapura"
+  },
+  {
+    "ward_no": "10",
+    "ward_name": "Dodda Bommasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 10 Office, Dodda Bommasandra"
+  },
+  {
+    "ward_no": "11",
+    "ward_name": "Kuvempu Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 11 Office, Kuvempu Nagar"
+  },
+  {
+    "ward_no": "12",
+    "ward_name": "Shettihalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 12 Office, Shettihalli"
+  },
+  {
+    "ward_no": "13",
+    "ward_name": "Mallasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 13 Office, Mallasandra"
+  },
+  {
+    "ward_no": "14",
+    "ward_name": "Bagalakunte",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 14 Office, Bagalakunte"
+  },
+  {
+    "ward_no": "15",
+    "ward_name": "T Dasarahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 15 Office, T Dasarahalli"
+  },
+  {
+    "ward_no": "16",
+    "ward_name": "Jalahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 16 Office, Jalahalli"
+  },
+  {
+    "ward_no": "17",
+    "ward_name": "J P Park",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 17 Office, J P Park"
+  },
+  {
+    "ward_no": "18",
+    "ward_name": "Radhakrishna Temple Ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 18 Office, Radhakrishna Temple Ward"
+  },
+  {
+    "ward_no": "19",
+    "ward_name": "Sanjaya Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 19 Office, Sanjaya Nagar"
+  },
+  {
+    "ward_no": "20",
+    "ward_name": "Ganga Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 20 Office, Ganga Nagar"
+  },
+  {
+    "ward_no": "21",
+    "ward_name": "Hebbala",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 21 Office, Hebbala"
+  },
+  {
+    "ward_no": "22",
+    "ward_name": "Vishwanath Nagenahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 22 Office, Vishwanath Nagenahalli"
+  },
+  {
+    "ward_no": "23",
+    "ward_name": "Nagavara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 23 Office, Nagavara"
+  },
+  {
+    "ward_no": "24",
+    "ward_name": "HBR Layout",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 24 Office, HBR Layout"
+  },
+  {
+    "ward_no": "25",
+    "ward_name": "Horamavu",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 25 Office, Horamavu"
+  },
+  {
+    "ward_no": "26",
+    "ward_name": "Ramamurthy Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 26 Office, Ramamurthy Nagar"
+  },
+  {
+    "ward_no": "27",
+    "ward_name": "Banasavadi",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 27 Office, Banasavadi"
+  },
+  {
+    "ward_no": "28",
+    "ward_name": "Kammanahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 28 Office, Kammanahalli"
+  },
+  {
+    "ward_no": "29",
+    "ward_name": "Kacharkanahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 29 Office, Kacharkanahalli"
+  },
+  {
+    "ward_no": "30",
+    "ward_name": "Kadugondanahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 30 Office, Kadugondanahalli"
+  },
+  {
+    "ward_no": "31",
+    "ward_name": "Kushal Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 31 Office, Kushal Nagar"
+  },
+  {
+    "ward_no": "32",
+    "ward_name": "Kaval Bairasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 32 Office, Kaval Bairasandra"
+  },
+  {
+    "ward_no": "33",
+    "ward_name": "Manorayanapalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 33 Office, Manorayanapalya"
+  },
+  {
+    "ward_no": "34",
+    "ward_name": "Gangenahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 34 Office, Gangenahalli"
+  },
+  {
+    "ward_no": "35",
+    "ward_name": "Aramane Nagara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 35 Office, Aramane Nagara"
+  },
+  {
+    "ward_no": "36",
+    "ward_name": "Mattikere",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 36 Office, Mattikere"
+  },
+  {
+    "ward_no": "37",
+    "ward_name": "Yeshwanthpura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 37 Office, Yeshwanthpura"
+  },
+  {
+    "ward_no": "38",
+    "ward_name": "HMT Ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 38 Office, HMT Ward"
+  },
+  {
+    "ward_no": "39",
+    "ward_name": "Chokkasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 39 Office, Chokkasandra"
+  },
+  {
+    "ward_no": "40",
+    "ward_name": "Dodda Bidarakallu",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 40 Office, Dodda Bidarakallu"
+  },
+  {
+    "ward_no": "41",
+    "ward_name": "Peenya Industrial Area",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 41 Office, Peenya Industrial Area"
+  },
+  {
+    "ward_no": "42",
+    "ward_name": "Lakshmi Devi Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 42 Office, Lakshmi Devi Nagar"
+  },
+  {
+    "ward_no": "43",
+    "ward_name": "Nandini Layout",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 43 Office, Nandini Layout"
+  },
+  {
+    "ward_no": "44",
+    "ward_name": "Marappana Palya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 44 Office, Marappana Palya"
+  },
+  {
+    "ward_no": "45",
+    "ward_name": "Malleswaram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 45 Office, Malleswaram"
+  },
+  {
+    "ward_no": "46",
+    "ward_name": "Jayachamarajendra Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 46 Office, Jayachamarajendra Nagar"
+  },
+  {
+    "ward_no": "47",
+    "ward_name": "Devara Jeevanahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 47 Office, Devara Jeevanahalli"
+  },
+  {
+    "ward_no": "48",
+    "ward_name": "Muneshwara Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 48 Office, Muneshwara Nagar"
+  },
+  {
+    "ward_no": "49",
+    "ward_name": "Lingarajapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 49 Office, Lingarajapura"
+  },
+  {
+    "ward_no": "50",
+    "ward_name": "Benniganahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 50 Office, Benniganahalli"
+  },
+  {
+    "ward_no": "51",
+    "ward_name": "Vijnanapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 51 Office, Vijnanapura"
+  },
+  {
+    "ward_no": "52",
+    "ward_name": "K R Puram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 52 Office, K R Puram"
+  },
+  {
+    "ward_no": "53",
+    "ward_name": "Basavanapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 53 Office, Basavanapura"
+  },
+  {
+    "ward_no": "54",
+    "ward_name": "Hudi",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 54 Office, Hudi"
+  },
+  {
+    "ward_no": "55",
+    "ward_name": "Devasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 55 Office, Devasandra"
+  },
+  {
+    "ward_no": "56",
+    "ward_name": "A Narayanapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 56 Office, A Narayanapura"
+  },
+  {
+    "ward_no": "57",
+    "ward_name": "C V Raman Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 57 Office, C V Raman Nagar"
+  },
+  {
+    "ward_no": "58",
+    "ward_name": "New Tippasandara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 58 Office, New Tippasandara"
+  },
+  {
+    "ward_no": "59",
+    "ward_name": "Maruthi Seva Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 59 Office, Maruthi Seva Nagar"
+  },
+  {
+    "ward_no": "60",
+    "ward_name": "Sagayarapuram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 60 Office, Sagayarapuram"
+  },
+  {
+    "ward_no": "61",
+    "ward_name": "S K Garden",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 61 Office, S K Garden"
+  },
+  {
+    "ward_no": "62",
+    "ward_name": "Ramaswamy Palya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 62 Office, Ramaswamy Palya"
+  },
+  {
+    "ward_no": "63",
+    "ward_name": "Jayamahal",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 63 Office, Jayamahal"
+  },
+  {
+    "ward_no": "64",
+    "ward_name": "Rajamahal Guttahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 64 Office, Rajamahal Guttahalli"
+  },
+  {
+    "ward_no": "65",
+    "ward_name": "Kadu Malleshwar Ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 65 Office, Kadu Malleshwar Ward"
+  },
+  {
+    "ward_no": "66",
+    "ward_name": "Subramanya Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 66 Office, Subramanya Nagar"
+  },
+  {
+    "ward_no": "67",
+    "ward_name": "Nagapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 67 Office, Nagapura"
+  },
+  {
+    "ward_no": "68",
+    "ward_name": "Mahalakshimpuram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 68 Office, Mahalakshimpuram"
+  },
+  {
+    "ward_no": "69",
+    "ward_name": "Laggere",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 69 Office, Laggere"
+  },
+  {
+    "ward_no": "70",
+    "ward_name": "Rajagopal Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 70 Office, Rajagopal Nagar"
+  },
+  {
+    "ward_no": "71",
+    "ward_name": "Hegganahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 71 Office, Hegganahalli"
+  },
+  {
+    "ward_no": "72",
+    "ward_name": "Herohalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 72 Office, Herohalli"
+  },
+  {
+    "ward_no": "73",
+    "ward_name": "Kottegepalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 73 Office, Kottegepalya"
+  },
+  {
+    "ward_no": "74",
+    "ward_name": "Shakthi Ganapathi Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 74 Office, Shakthi Ganapathi Nagar"
+  },
+  {
+    "ward_no": "75",
+    "ward_name": "Shankar Matt",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 75 Office, Shankar Matt"
+  },
+  {
+    "ward_no": "76",
+    "ward_name": "Gayithri Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 76 Office, Gayithri Nagar"
+  },
+  {
+    "ward_no": "77",
+    "ward_name": "Dattatreya Temple",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 77 Office, Dattatreya Temple"
+  },
+  {
+    "ward_no": "78",
+    "ward_name": "Pulikeshinagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 78 Office, Pulikeshinagar"
+  },
+  {
+    "ward_no": "79",
+    "ward_name": "Sarvagna Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 79 Office, Sarvagna Nagar"
+  },
+  {
+    "ward_no": "80",
+    "ward_name": "Hoysala Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 80 Office, Hoysala Nagar"
+  },
+  {
+    "ward_no": "81",
+    "ward_name": "Vijnana Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 81 Office, Vijnana Nagar"
+  },
+  {
+    "ward_no": "82",
+    "ward_name": "Garudachar Playa",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 82 Office, Garudachar Playa"
+  },
+  {
+    "ward_no": "83",
+    "ward_name": "Kadugodi",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 83 Office, Kadugodi"
+  },
+  {
+    "ward_no": "84",
+    "ward_name": "Hagadur",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 84 Office, Hagadur"
+  },
+  {
+    "ward_no": "85",
+    "ward_name": "Dodda Nekkundi",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 85 Office, Dodda Nekkundi"
+  },
+  {
+    "ward_no": "86",
+    "ward_name": "Marathahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 86 Office, Marathahalli"
+  },
+  {
+    "ward_no": "87",
+    "ward_name": "HAL Airport",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 87 Office, HAL Airport"
+  },
+  {
+    "ward_no": "88",
+    "ward_name": "Jeevanbhima Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 88 Office, Jeevanbhima Nagar"
+  },
+  {
+    "ward_no": "89",
+    "ward_name": "Jogupalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 89 Office, Jogupalya"
+  },
+  {
+    "ward_no": "90",
+    "ward_name": "Halsoor",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 90 Office, Halsoor"
+  },
+  {
+    "ward_no": "91",
+    "ward_name": "Bharathi Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 91 Office, Bharathi Nagar"
+  },
+  {
+    "ward_no": "92",
+    "ward_name": "Shivaji Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 92 Office, Shivaji Nagar"
+  },
+  {
+    "ward_no": "93",
+    "ward_name": "Vasanth Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 93 Office, Vasanth Nagar"
+  },
+  {
+    "ward_no": "94",
+    "ward_name": "Gandhinagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 94 Office, Gandhinagar"
+  },
+  {
+    "ward_no": "95",
+    "ward_name": "Subhash Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 95 Office, Subhash Nagar"
+  },
+  {
+    "ward_no": "96",
+    "ward_name": "Okalipuram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 96 Office, Okalipuram"
+  },
+  {
+    "ward_no": "97",
+    "ward_name": "Dayananda Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 97 Office, Dayananda Nagar"
+  },
+  {
+    "ward_no": "98",
+    "ward_name": "Prakash Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 98 Office, Prakash Nagar"
+  },
+  {
+    "ward_no": "99",
+    "ward_name": "Rajaji Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 99 Office, Rajaji Nagar"
+  },
+  {
+    "ward_no": "100",
+    "ward_name": "Basaveshwara Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 100 Office, Basaveshwara Nagar"
+  },
+  {
+    "ward_no": "101",
+    "ward_name": "Kamakshipalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 101 Office, Kamakshipalya"
+  },
+  {
+    "ward_no": "102",
+    "ward_name": "Vrisabhavathi Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 102 Office, Vrisabhavathi Nagar"
+  },
+  {
+    "ward_no": "103",
+    "ward_name": "Kaveripura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 103 Office, Kaveripura"
+  },
+  {
+    "ward_no": "104",
+    "ward_name": "Govindaraja Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 104 Office, Govindaraja Nagar"
+  },
+  {
+    "ward_no": "105",
+    "ward_name": "Agrahara Dasarahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 105 Office, Agrahara Dasarahalli"
+  },
+  {
+    "ward_no": "106",
+    "ward_name": "Dr. Raj Kumar Ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 106 Office, Dr. Raj Kumar Ward"
+  },
+  {
+    "ward_no": "107",
+    "ward_name": "Shivanagara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 107 Office, Shivanagara"
+  },
+  {
+    "ward_no": "108",
+    "ward_name": "Sriramamandir",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 108 Office, Sriramamandir"
+  },
+  {
+    "ward_no": "109",
+    "ward_name": "Chickpete",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 109 Office, Chickpete"
+  },
+  {
+    "ward_no": "110",
+    "ward_name": "Sampangiram Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 110 Office, Sampangiram Nagar"
+  },
+  {
+    "ward_no": "111",
+    "ward_name": "Shantala Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 111 Office, Shantala Nagar"
+  },
+  {
+    "ward_no": "112",
+    "ward_name": "Domlur",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 112 Office, Domlur"
+  },
+  {
+    "ward_no": "113",
+    "ward_name": "Konena Agrahara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 113 Office, Konena Agrahara"
+  },
+  {
+    "ward_no": "114",
+    "ward_name": "Agaram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 114 Office, Agaram"
+  },
+  {
+    "ward_no": "115",
+    "ward_name": "Vannarpet",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 115 Office, Vannarpet"
+  },
+  {
+    "ward_no": "116",
+    "ward_name": "Nilasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 116 Office, Nilasandra"
+  },
+  {
+    "ward_no": "117",
+    "ward_name": "Shanthi Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 117 Office, Shanthi Nagar"
+  },
+  {
+    "ward_no": "118",
+    "ward_name": "Sudham Nagara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 118 Office, Sudham Nagara"
+  },
+  {
+    "ward_no": "119",
+    "ward_name": "Dharmaraya Swamy Temple",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 119 Office, Dharmaraya Swamy Temple"
+  },
+  {
+    "ward_no": "120",
+    "ward_name": "Cottonpete",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 120 Office, Cottonpete"
+  },
+  {
+    "ward_no": "121",
+    "ward_name": "Binnipete",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 121 Office, Binnipete"
+  },
+  {
+    "ward_no": "122",
+    "ward_name": "Kempapura Agrahara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 122 Office, Kempapura Agrahara"
+  },
+  {
+    "ward_no": "123",
+    "ward_name": "Vijayanagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 123 Office, Vijayanagar"
+  },
+  {
+    "ward_no": "124",
+    "ward_name": "Hosahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 124 Office, Hosahalli"
+  },
+  {
+    "ward_no": "125",
+    "ward_name": "Marenahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 125 Office, Marenahalli"
+  },
+  {
+    "ward_no": "126",
+    "ward_name": "Maruthi Mandir ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 126 Office, Maruthi Mandir ward"
+  },
+  {
+    "ward_no": "127",
+    "ward_name": "Mudalapalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 127 Office, Mudalapalya"
+  },
+  {
+    "ward_no": "128",
+    "ward_name": "Nagarabhavi",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 128 Office, Nagarabhavi"
+  },
+  {
+    "ward_no": "129",
+    "ward_name": "Jnana Bharathi ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 129 Office, Jnana Bharathi ward"
+  },
+  {
+    "ward_no": "130",
+    "ward_name": "Ullalu",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 130 Office, Ullalu"
+  },
+  {
+    "ward_no": "131",
+    "ward_name": "Nayandahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 131 Office, Nayandahalli"
+  },
+  {
+    "ward_no": "132",
+    "ward_name": "Attiguppe",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 132 Office, Attiguppe"
+  },
+  {
+    "ward_no": "133",
+    "ward_name": "Hampi Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 133 Office, Hampi Nagar"
+  },
+  {
+    "ward_no": "134",
+    "ward_name": "Bapuji Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 134 Office, Bapuji Nagar"
+  },
+  {
+    "ward_no": "135",
+    "ward_name": "Padarayanapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 135 Office, Padarayanapura"
+  },
+  {
+    "ward_no": "136",
+    "ward_name": "Jagajivanaramnagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 136 Office, Jagajivanaramnagar"
+  },
+  {
+    "ward_no": "137",
+    "ward_name": "Rayapuram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 137 Office, Rayapuram"
+  },
+  {
+    "ward_no": "138",
+    "ward_name": "Chalavadipalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 138 Office, Chalavadipalya"
+  },
+  {
+    "ward_no": "139",
+    "ward_name": "K R Market",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 139 Office, K R Market"
+  },
+  {
+    "ward_no": "140",
+    "ward_name": "Chamrajapet",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 140 Office, Chamrajapet"
+  },
+  {
+    "ward_no": "141",
+    "ward_name": "Azad Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 141 Office, Azad Nagar"
+  },
+  {
+    "ward_no": "142",
+    "ward_name": "Sunkenahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 142 Office, Sunkenahalli"
+  },
+  {
+    "ward_no": "143",
+    "ward_name": "Vishveshwara Puram",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 143 Office, Vishveshwara Puram"
+  },
+  {
+    "ward_no": "144",
+    "ward_name": "Siddapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 144 Office, Siddapura"
+  },
+  {
+    "ward_no": "145",
+    "ward_name": "Hombegowda Nagara",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 145 Office, Hombegowda Nagara"
+  },
+  {
+    "ward_no": "146",
+    "ward_name": "Lakkasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 146 Office, Lakkasandra"
+  },
+  {
+    "ward_no": "147",
+    "ward_name": "Adugodi",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 147 Office, Adugodi"
+  },
+  {
+    "ward_no": "148",
+    "ward_name": "Ejipura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 148 Office, Ejipura"
+  },
+  {
+    "ward_no": "149",
+    "ward_name": "Varthuru",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 149 Office, Varthuru"
+  },
+  {
+    "ward_no": "150",
+    "ward_name": "Bellanduru",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 150 Office, Bellanduru"
+  },
+  {
+    "ward_no": "151",
+    "ward_name": "Koramangala",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 151 Office, Koramangala"
+  },
+  {
+    "ward_no": "152",
+    "ward_name": "Suddagunte Palya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 152 Office, Suddagunte Palya"
+  },
+  {
+    "ward_no": "153",
+    "ward_name": "Jayanagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 153 Office, Jayanagar"
+  },
+  {
+    "ward_no": "154",
+    "ward_name": "Basavanagudi",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 154 Office, Basavanagudi"
+  },
+  {
+    "ward_no": "155",
+    "ward_name": "Hanumanth Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 155 Office, Hanumanth Nagar"
+  },
+  {
+    "ward_no": "156",
+    "ward_name": "Srinagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 156 Office, Srinagar"
+  },
+  {
+    "ward_no": "157",
+    "ward_name": "Gali Anjenaya Temple ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 157 Office, Gali Anjenaya Temple ward"
+  },
+  {
+    "ward_no": "158",
+    "ward_name": "Deepanjali Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 158 Office, Deepanjali Nagar"
+  },
+  {
+    "ward_no": "159",
+    "ward_name": "Kengeri",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 159 Office, Kengeri"
+  },
+  {
+    "ward_no": "160",
+    "ward_name": "Rajarajeshwari Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 160 Office, Rajarajeshwari Nagar"
+  },
+  {
+    "ward_no": "161",
+    "ward_name": "Hosakerehalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 161 Office, Hosakerehalli"
+  },
+  {
+    "ward_no": "162",
+    "ward_name": "Girinagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 162 Office, Girinagar"
+  },
+  {
+    "ward_no": "163",
+    "ward_name": "Katriguppe",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 163 Office, Katriguppe"
+  },
+  {
+    "ward_no": "164",
+    "ward_name": "Vidyapeeta ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 164 Office, Vidyapeeta ward"
+  },
+  {
+    "ward_no": "165",
+    "ward_name": "Ganesh Mandir ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 165 Office, Ganesh Mandir ward"
+  },
+  {
+    "ward_no": "166",
+    "ward_name": "Karisandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 166 Office, Karisandra"
+  },
+  {
+    "ward_no": "167",
+    "ward_name": "Yediyur",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 167 Office, Yediyur"
+  },
+  {
+    "ward_no": "168",
+    "ward_name": "Pattabhiram Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 168 Office, Pattabhiram Nagar"
+  },
+  {
+    "ward_no": "169",
+    "ward_name": "Byrasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 169 Office, Byrasandra"
+  },
+  {
+    "ward_no": "170",
+    "ward_name": "Jayanagar East",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 170 Office, Jayanagar East"
+  },
+  {
+    "ward_no": "171",
+    "ward_name": "Gurappanapalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 171 Office, Gurappanapalya"
+  },
+  {
+    "ward_no": "172",
+    "ward_name": "Madivala",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 172 Office, Madivala"
+  },
+  {
+    "ward_no": "173",
+    "ward_name": "Jakkasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 173 Office, Jakkasandra"
+  },
+  {
+    "ward_no": "174",
+    "ward_name": "HSR Layout",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 174 Office, HSR Layout"
+  },
+  {
+    "ward_no": "175",
+    "ward_name": "Bommanahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 175 Office, Bommanahalli"
+  },
+  {
+    "ward_no": "176",
+    "ward_name": "BTM Layout",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 176 Office, BTM Layout"
+  },
+  {
+    "ward_no": "177",
+    "ward_name": "J P Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 177 Office, J P Nagar"
+  },
+  {
+    "ward_no": "178",
+    "ward_name": "Sarakki",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 178 Office, Sarakki"
+  },
+  {
+    "ward_no": "179",
+    "ward_name": "Shakambari Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 179 Office, Shakambari Nagar"
+  },
+  {
+    "ward_no": "180",
+    "ward_name": "Banashankari Temple ward",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 180 Office, Banashankari Temple ward"
+  },
+  {
+    "ward_no": "181",
+    "ward_name": "Kumaraswamy Layout",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 181 Office, Kumaraswamy Layout"
+  },
+  {
+    "ward_no": "182",
+    "ward_name": "Padmanabha Nagar",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 182 Office, Padmanabha Nagar"
+  },
+  {
+    "ward_no": "183",
+    "ward_name": "Chikkalsandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 183 Office, Chikkalsandra"
+  },
+  {
+    "ward_no": "184",
+    "ward_name": "Uttarahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 184 Office, Uttarahalli"
+  },
+  {
+    "ward_no": "185",
+    "ward_name": "Yelchenahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 185 Office, Yelchenahalli"
+  },
+  {
+    "ward_no": "186",
+    "ward_name": "Jaraganahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 186 Office, Jaraganahalli"
+  },
+  {
+    "ward_no": "187",
+    "ward_name": "Puttenahalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 187 Office, Puttenahalli"
+  },
+  {
+    "ward_no": "188",
+    "ward_name": "Bilekhalli",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 188 Office, Bilekhalli"
+  },
+  {
+    "ward_no": "189",
+    "ward_name": "Hongasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 189 Office, Hongasandra"
+  },
+  {
+    "ward_no": "190",
+    "ward_name": "Mangammanapalya",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 190 Office, Mangammanapalya"
+  },
+  {
+    "ward_no": "191",
+    "ward_name": "Singasandra",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 191 Office, Singasandra"
+  },
+  {
+    "ward_no": "192",
+    "ward_name": "Begur",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 192 Office, Begur"
+  },
+  {
+    "ward_no": "193",
+    "ward_name": "Arakere",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 193 Office, Arakere"
+  },
+  {
+    "ward_no": "194",
+    "ward_name": "Gottigere",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 194 Office, Gottigere"
+  },
+  {
+    "ward_no": "195",
+    "ward_name": "Konankunte",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 195 Office, Konankunte"
+  },
+  {
+    "ward_no": "196",
+    "ward_name": "Anjanapura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 196 Office, Anjanapura"
+  },
+  {
+    "ward_no": "197",
+    "ward_name": "Vasanthpura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 197 Office, Vasanthpura"
+  },
+  {
+    "ward_no": "198",
+    "ward_name": "Hemmigepura",
+    "zone": "",
+    "corporator_name": "To be verified",
+    "corporator_party": "",
+    "corporator_photo_url": "",
+    "corporator_mobile": "",
+    "ward_office_address": "Ward 198 Office, Hemmigepura"
+  }
 ]

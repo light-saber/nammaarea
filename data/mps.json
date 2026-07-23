@@ -1,46 +1,57 @@
 [
   {
-    "pc_name": "Bangalore North",
-    "pc_code": "27",
-    "mp_name": "Krishna Byre Gowda",
-    "mp_party": "INC",
+    "pc_name": "Bangalore Rural",
+    "pc_code": 23,
+    "mp_name": "To be verified",
+    "mp_party": "",
     "mp_photo_url": "",
-    "mp_contact": "krishna.byre@sansad.nic.in",
-    "ls_attendance_pct": 82,
-    "mplads_allocated_cr": 25.0,
-    "mplads_spent_cr": 16.7
+    "mp_contact": "",
+    "ls_attendance_pct": null,
+    "mplads_allocated_cr": null,
+    "mplads_spent_cr": null
+  },
+  {
+    "pc_name": "Bangalore North",
+    "pc_code": 24,
+    "mp_name": "To be verified",
+    "mp_party": "",
+    "mp_photo_url": "",
+    "mp_contact": "",
+    "ls_attendance_pct": null,
+    "mplads_allocated_cr": null,
+    "mplads_spent_cr": null
   },
   {
     "pc_name": "Bangalore Central",
-    "pc_code": "28",
-    "mp_name": "P.C. Mohan",
-    "mp_party": "BJP",
+    "pc_code": 25,
+    "mp_name": "To be verified",
+    "mp_party": "",
     "mp_photo_url": "",
-    "mp_contact": "pc.mohan@sansad.nic.in",
-    "ls_attendance_pct": 78,
-    "mplads_allocated_cr": 25.0,
-    "mplads_spent_cr": 19.2
+    "mp_contact": "",
+    "ls_attendance_pct": null,
+    "mplads_allocated_cr": null,
+    "mplads_spent_cr": null
   },
   {
     "pc_name": "Bangalore South",
-    "pc_code": "29",
-    "mp_name": "Tejasvi Surya",
-    "mp_party": "BJP",
+    "pc_code": 26,
+    "mp_name": "To be verified",
+    "mp_party": "",
     "mp_photo_url": "",
-    "mp_contact": "tejasvi.surya@sansad.nic.in",
-    "ls_attendance_pct": 87,
-    "mplads_allocated_cr": 25.0,
-    "mplads_spent_cr": 18.4
+    "mp_contact": "",
+    "ls_attendance_pct": null,
+    "mplads_allocated_cr": null,
+    "mplads_spent_cr": null
   },
   {
-    "pc_name": "Bangalore Rural",
-    "pc_code": "30",
-    "mp_name": "C.N. Manjunath",
-    "mp_party": "BJP",
+    "pc_name": "Chikkballapur",
+    "pc_code": 27,
+    "mp_name": "To be verified",
+    "mp_party": "",
     "mp_photo_url": "",
-    "mp_contact": "cn.manjunath@sansad.nic.in",
-    "ls_attendance_pct": 91,
-    "mplads_allocated_cr": 25.0,
-    "mplads_spent_cr": 7.3
+    "mp_contact": "",
+    "ls_attendance_pct": null,
+    "mplads_allocated_cr": null,
+    "mplads_spent_cr": null
   }
 ]
